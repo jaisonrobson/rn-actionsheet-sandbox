@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rn-actionsheet-sandbox",
+    "slug": "rn-actionsheet-sandbox",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rn-actionsheet-sandbox"
+}
